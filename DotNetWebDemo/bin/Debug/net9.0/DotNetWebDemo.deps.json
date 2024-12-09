@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "DotNetWebDemo/1.0.0": {
+        "runtime": {
+          "DotNetWebDemo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DotNetWebDemo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
