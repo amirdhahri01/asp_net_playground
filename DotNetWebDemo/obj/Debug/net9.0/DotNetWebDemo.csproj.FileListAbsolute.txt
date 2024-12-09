@@ -95,3 +95,4 @@ C:\Users\Amir Dhahri\Desktop\asp_net_playground\DotNetWebDemo\obj\Debug\net9.0\r
 C:\Users\Amir Dhahri\Desktop\asp_net_playground\DotNetWebDemo\obj\Debug\net9.0\DotNetWebDemo.pdb
 C:\Users\Amir Dhahri\Desktop\asp_net_playground\DotNetWebDemo\obj\Debug\net9.0\DotNetWebDemo.genruntimeconfig.cache
 C:\Users\Amir Dhahri\Desktop\asp_net_playground\DotNetWebDemo\obj\Debug\net9.0\ref\DotNetWebDemo.dll
+C:\Users\Amir Dhahri\Desktop\asp_net_playground\DotNetWebDemo\obj\Debug\net9.0\DotNetWebDemo.sourcelink.json
