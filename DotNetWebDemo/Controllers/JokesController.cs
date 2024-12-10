@@ -5,7 +5,6 @@ namespace DotNetWebDemo.Controllers{
         public JokesController() {
 
         }     
-    
 
     }
 }
