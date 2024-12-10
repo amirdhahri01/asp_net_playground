@@ -1,0 +1,21 @@
+@model List<DotNetWebDemo.Models.Dish>
+@{
+    ViewData["Title"]="MenuIndex";
+}
+<div class="container">
+    <div class="row">
+        @foreach(var item in Model){
+            <div class="col-6">
+                <div class="d-flex justify-content-center">
+                    <h4> @item.Name </h4>
+                </div>
+                <div>
+                   <img src="@item.ImageUrl" alt="" width="70%">
+                </div>
+                <div>
+                    @item.price
+                </div>
+            </div>
+        }
+    </div>
+</div>
