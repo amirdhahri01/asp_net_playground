@@ -9,11 +9,11 @@
                 <div class="d-flex justify-content-center">
                     <h4> @item.Name </h4>
                 </div>
-                <div>
-                   <img src="@item.ImageUrl" alt="" width="70%">
+                <div class="d-flex justify-content-center">
+                    <img src="@item.ImageUrl" alt="" width="70%">
                 </div>
-                <div>
-                    @item.price
+                <div class="d-flex justify-content-center">
+                    @item.price.ToString("N2") Dollars
                 </div>
             </div>
         }
